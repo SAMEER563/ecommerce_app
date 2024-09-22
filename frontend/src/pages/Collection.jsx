@@ -71,7 +71,7 @@ useEffect(()=>{
 
 
 useEffect(()=>{
-  // sortProduct()   // it should be sortProduct not applyFilter
+  sortProduct()   // it should be sortProduct not applyFilter
 },[sortType])
 
 

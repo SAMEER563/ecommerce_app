@@ -16,7 +16,7 @@ const Contact = () => {
           <p className='text-gray-500'>65456 Main Road <br />Dhanapur Chandauli 232105</p>
           <p className='text-gray-500'>Tel: +5265442441 <br />Email: contact@gmail.com</p>
           <p className='font-semibold text-xl text-gray-600'>Careers at SamCart</p>
-          <p>Learn more about our teams and job openinga.</p>
+          <p>Learn more about our teams and job openings.</p>
           <button className='border-black border px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore Jobs</button>
         </div>
       </div>

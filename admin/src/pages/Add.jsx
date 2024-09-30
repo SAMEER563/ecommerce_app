@@ -103,4 +103,3 @@ const [image4,setImage4] = useState(false)
 
 export default Add
 
-// start from 8:44:02

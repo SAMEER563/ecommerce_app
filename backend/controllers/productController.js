@@ -48,7 +48,6 @@ const addProduct = async (req,res) => {
 
 }
 
-
 // function for list product
 const listProducts = async (req,res) => {
 
